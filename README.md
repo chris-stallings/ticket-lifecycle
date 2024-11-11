@@ -28,12 +28,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+<p><a href="http://localhost/osTicket/">http://localhost/osTicket</a> Admin/Analyst login page</p>
+<p><a href="http://localhost/osTicket/">http://localhost/osTicket/</a> End user osTicket page</p>
+<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1710" alt="Screenshot 2024-11-11 at 6 24 25 PM" src="https://github.com/user-attachments/assets/110b91ab-33fa-4879-bf72-dea2c733c565">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First we will go to the end user home page. From here we will create a new ticket. 
 </p>
 <br />
 
