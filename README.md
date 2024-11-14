@@ -42,11 +42,16 @@ First we will go to the end user home page. From here we will create a new ticke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1710" alt="Screenshot 2024-11-14 at 5 01 59 PM" src="https://github.com/user-attachments/assets/77960ccd-609b-496e-934b-5d899fb475e8">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a help ticket with the following information:</p>
 </p>
+
+- E-Mail Address: karen@email.com
+- Full Name: Karen
+- Help Topic: Report a Problem
+- Issue Summary: My employees are reporting that users are no longer able to access their online banking portal. The ones who are occasionally access it, cannot log in. 
 <br />
 
 <p>
