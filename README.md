@@ -61,3 +61,13 @@ Create a help ticket with the following information:</p>
 Next log into the administrator page using the agent accound John
 </p>
 <br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-15 at 5 15 33 PM" src="https://github.com/user-attachments/assets/e364e44f-d45b-46c4-bc98-9eb22ff5a540">
+</p>
+<p>Once logged in as John. Click on the ticket we made as user Karen.</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-15 at 5 18 48 PM" src="https://github.com/user-attachments/assets/ab389ad7-3bf7-45b5-bd9d-3156b3b7a206">
+</p>
+<p>From this screen we will observe a few key details of the ticket. 
+</p>
