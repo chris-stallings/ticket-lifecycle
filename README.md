@@ -69,5 +69,10 @@ Next log into the administrator page using the agent accound John
 <p>
   <img width="1710" alt="Screenshot 2024-11-15 at 5 18 48 PM" src="https://github.com/user-attachments/assets/ab389ad7-3bf7-45b5-bd9d-3156b3b7a206">
 </p>
-<p>From this screen we will observe a few key details of the ticket. 
+<p>From this screen we will observe a few key details of the ticket. Take note of the following:
 </p>
+
+- Priority
+- Department
+- SLA
+- Assigned To
