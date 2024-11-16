@@ -78,5 +78,13 @@ Next log into the administrator page using the agent accound John
 - Assigned To
 
 <p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 3 41 31 PM" src="https://github.com/user-attachments/assets/524297bc-de90-40f5-a9c0-58c651ac0bf9">
+</p>
+
+- Set the SLA Plan to Sev-A
+- Assign the ticket to the Online Banking Team
+- Change Help Topic to Report A Problem/Business Critical Issue
+
+<p>
   
 </p>
