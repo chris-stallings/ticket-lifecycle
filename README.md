@@ -84,7 +84,30 @@ Next log into the administrator page using the agent accound John
 - Set the SLA Plan to Sev-A
 - Assign the ticket to the Online Banking Team
 - Change Help Topic to Report A Problem/Business Critical Issue
+<br />
 
 <p>
-  
+  <img width="1710" alt="Screenshot 2024-11-16 at 3 48 29 PM" src="https://github.com/user-attachments/assets/af19b14f-061f-4c57-8fea-9457c5367567">
 </p>
+<p>Now work the ticket as the agent Jane. </p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 3 51 04 PM" src="https://github.com/user-attachments/assets/6255c687-1c04-4009-9910-47e4ab23f557">
+</p>
+<p>Assign the ticket to Jane.</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 3 54 49 PM" src="https://github.com/user-attachments/assets/219db27a-1af1-45ea-b284-f08173734db9">
+</p>
+<p>Post a commentof what you plan to do to work the ticket. "I believe the problem is the recent update. Update was tested sufficiently however I will look into it and roll back if necessary."</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 3 59 45 PM" src="https://github.com/user-attachments/assets/a7c5edb4-1527-4a93-8c6e-c49900187698">
+</p>
+<p>After "testing the update" the update was the problem. Submit another note explaining this. </p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 02 33 PM" src="https://github.com/user-attachments/assets/bcc1ebde-8495-4b31-809a-29adcaaf110b">
+</p>
+<p>Now that the problem is resolved close the ticket. </p>
+<br />
