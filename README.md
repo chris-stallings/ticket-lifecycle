@@ -137,5 +137,18 @@ Next log into the administrator page using the agent accound John
 <p>Observe that the updates were made to the ticket. Then proceed to work the ticket to completion as John.</p>
 <br />
 <p>
-  
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 35 30 PM" src="https://github.com/user-attachments/assets/43a10aec-0061-44a1-98a2-c0002c463f83">
+
 </p>
+<p>Add the note : "Customer states only 2 people in accounting department unable to open and use adobe reader. Customer testing restart and will call back after lunch."</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 38 06 PM" src="https://github.com/user-attachments/assets/7c566aa7-e55a-4a49-b55c-87758ae17a78">
+</p>
+<p>Once customer calls back add the note: "Customer states restart fixed issue. Closing out ticket."</p>
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 41 17 PM" src="https://github.com/user-attachments/assets/8bccf182-f38f-4f6d-a80e-3edf445810cf">
+</p>
+<p>Close ticket as resolved.</p>
+<br />
