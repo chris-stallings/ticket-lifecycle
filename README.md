@@ -76,7 +76,7 @@ Next log into the administrator page using the agent accound John
 - Department
 - SLA
 - Assigned To
-
+<br />
 <p>
   <img width="1710" alt="Screenshot 2024-11-16 at 3 41 31 PM" src="https://github.com/user-attachments/assets/524297bc-de90-40f5-a9c0-58c651ac0bf9">
 </p>
@@ -84,8 +84,9 @@ Next log into the administrator page using the agent accound John
 - Set the SLA Plan to Sev-A
 - Assign the ticket to the Online Banking Team
 - Change Help Topic to Report A Problem/Business Critical Issue
-<br />
 
+
+<br />
 <p>
   <img width="1710" alt="Screenshot 2024-11-16 at 3 48 29 PM" src="https://github.com/user-attachments/assets/af19b14f-061f-4c57-8fea-9457c5367567">
 </p>
@@ -111,3 +112,30 @@ Next log into the administrator page using the agent accound John
 </p>
 <p>Now that the problem is resolved close the ticket. </p>
 <br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 10 39 PM" src="https://github.com/user-attachments/assets/21c22bc2-00a5-462c-8ba1-bb7793105399">
+</p>
+<p>Create a new help ticket. This time we will use the end user Ken. Create the ticket with the following information.</p>
+
+- Help Topic: General Inquiry/Other
+- accounting department needs adobe upgrade, broken
+- It looks like many people in the accounting department can't use their adobe software.
+
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 19 51 PM" src="https://github.com/user-attachments/assets/b293f844-42d6-4ece-b93c-9e566e60f473">
+</p>
+<p>Log back in as agent John. Observe the ticket we just created.</p>
+
+- Set SLA to Sev-C
+- Assign ticket to John.
+
+<br />
+<p>
+  <img width="1710" alt="Screenshot 2024-11-16 at 4 28 13 PM" src="https://github.com/user-attachments/assets/9e63e071-aeef-4b78-b99e-396095891b32">
+</p>
+<p>Observe that the updates were made to the ticket. Then proceed to work the ticket to completion as John.</p>
+<br />
+<p>
+  
+</p>
